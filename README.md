@@ -1,17 +1,8 @@
-# Srandom
+# Dining on Timing 
 
 ## Beschreibung
-Die folgende Applikation "Srandom" erfüllt die Aufgabe, zufällige Lieder und Empfehlungen den Besucher vorzuschlagen und diese mit einem Klick für weiteres hören zur Verfügung zustellen. Es wird dazu noch die Möglichkeit gegeben, nach der Registrierung, Playlists für Lieblingslieder zu erstellen und diese im Nutzerkonto zu speichern. Es können zahlreiche Playlists mit unterschiedliche Namen erstellt werden und diese Nach Wahl auch gelöscht.
+Die folgende Applikation "dining on timing"  soll zum Einen eine Liste von allen Mensen mit dem jeweiligen Namen anzeigen .  Zudem hat der User die Möglichkeit  über die Einstellungen Mensen oder Speien zu favorisieren.  Zum Anderen gibt die App  aktuelle Speisen am Tag und an anderen Tagen.  Den jeweiligen Speisen  kann man den Preis entnehmen. 
 
 ## Mitglieder
 * Florina Jonuzi (@JonuziFlorina)
-* Kamyab Nazari (@kamyab-nazari)
 
-## Tech stack
-* Java JDK 17
-* Gradle 7.4
-* NodeJs 16.14
-* Spring Boot 2.6.2
-* Thymeleaf, Spring Web, Spring Boot DevTools 
-* Heroku
-* Vue.js"# mensa-app-ws22-23-gruppe-04" 
