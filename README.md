@@ -5,4 +5,4 @@ Die folgende Applikation "dining on timing"  soll zum Einen eine Liste asu einer
 
 ## Mitglieder
 * Florina Jonuzi (@JonuziFlorina)
-
+* Marco Selim Hamiti (@Hamiti97)
