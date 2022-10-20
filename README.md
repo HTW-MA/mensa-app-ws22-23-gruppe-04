@@ -7,3 +7,4 @@ Die folgende Applikation "dining on timing"  soll zum Einen eine Liste aus einer
 * Florina Jonuzi (@JonuziFlorina)
 * Marco Selim Hamiti (@Hamiti97)
 * David Zimmermann (@David91zimmermann)
+* Quoc Huy Pham (@phamquochuy2905)
