@@ -8,3 +8,7 @@ Die folgende Applikation "dining on timing"  soll zum Einen eine Liste aus einer
 * Marco Selim Hamiti (@Hamiti97)
 * David Zimmermann (@David91zimmermann)
 * Quoc Huy Pham (@phamquochuy2905)
+
+## Start
+Befehl zum Starten der Applikation
+* npm start
