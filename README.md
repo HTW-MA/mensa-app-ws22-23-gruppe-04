@@ -9,6 +9,10 @@ Die folgende Applikation "dining on timing"  soll zum Einen eine Liste aus einer
 * David Zimmermann (@David91zimmermann)
 * Quoc Huy Pham (@phamquochuy2905)
 
-## Start
+## How to run application locally
 Befehl zum Starten der Applikation
-* npm start
+1. from ServerSide folder
+- npm install
+- npm run devStart
+2. from ClientSide folder
+- npm start

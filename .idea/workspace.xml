@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c503b7b-f47c-4d21-8c07-7af4dd90e262" name="Changes" comment="Test1">
+      <change afterPath="$PROJECT_DIR$/ClientSide/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/public/NotificationHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/public/_redirects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/public/offline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/public/serviceworker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/Pages/Details/Details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/Pages/Details/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/Pages/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/Pages/Login/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/Canteen/Canteen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/Canteen/canteen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/CanteensList/CanteensList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/CanteensList/canteensList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/Recipe/Recipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/Recipe/recipe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientSide/src/components/TemporaryDrawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerSide/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientSide/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,20 +65,29 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GGxKjDnxLn9yZPRvCCr101HmXw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ninazimmermann/Desktop/mensa-app-ws22-23-gruppe-04",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ninazimmermann/Desktop/mensa-app-ws22-23-gruppe-04&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ClientSide" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +98,10 @@
       <updated>1666028660806</updated>
       <workItem from="1666028663545" duration="2261000" />
       <workItem from="1666335872741" duration="683000" />
-      <workItem from="1669903170865" duration="407000" />
+      <workItem from="1669903170865" duration="805000" />
+      <workItem from="1669908107428" duration="101000" />
+      <workItem from="1669910992686" duration="7261000" />
+      <workItem from="1669934500752" duration="13637000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1666038893803</created>
@@ -95,6 +149,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test" />
     <MESSAGE value="Test1" />
     <option name="LAST_COMMIT_MESSAGE" value="Test1" />
